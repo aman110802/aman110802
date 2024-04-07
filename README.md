@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **Rect JS, Spring Boot**
+- 💬 Ask me about **Rect JS**
 
 - 📫 How to reach me **amanmujawaadiya@gmail.com**
 
